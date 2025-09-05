@@ -1,4 +1,4 @@
-# The Data Scientist's Toolbox - Course Work & Projects
+# The Data Scientist's Toolbox: Course Work & Projects From Coursera
 
 This repository contains my work and projects from the **"The Data Scientist's Toolbox"** course, part of the Johns Hopkins University Data Science Specialization on Coursera.
 
